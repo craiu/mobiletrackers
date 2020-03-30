@@ -15,3 +15,15 @@ pie.wirelessregistry.com
 # URLs below stored as base64 and encrypted xor 0x09 ->
 udata.elephantdata.net
 atb.bearclod.com
+#pDNS data for the IPs associated with atb.bearclod.com ->
+alb.bearclod.com
+aly.bearclod.com
+alz.bearclod.com
+atb.bearclod.com
+bivitis.bearclod.com
+brt.bearclod.com
+brul.bearclod.com
+hfstat.bearclod.com
+hkn01.bearclod.com
+ply.bearclod.com
+zoo.bearclod.com
