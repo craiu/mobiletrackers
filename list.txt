@@ -4,26 +4,26 @@
 # Version 1.00 - 20200330
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
-bin5y4muil.execute-api.us-east-1.amazonaws.com
+0.0.0.0 bin5y4muil.execute-api.us-east-1.amazonaws.com
 # unknown, possibly xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
-8balwalz1i.execute-api.us-east-2.amazonaws.com
+0.0.0.0 8balwalz1i.execute-api.us-east-2.amazonaws.com
 # unknowns - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
-api.smartechmetrics.com
-ck-running-apps-700f1.firebaseio.com
-pie.wirelessregistry.com
+0.0.0.0 api.smartechmetrics.com
+0.0.0.0 ck-running-apps-700f1.firebaseio.com
+0.0.0.0 pie.wirelessregistry.com
 # unknowns - 010f7bb33f35cc650b7d6104b07102eb0dbaf79bcec1f1c6255fdcaffefe6b68 - com.davidsukhin.com.sukhin.snowdaycalculator.SnowDay
 # URLs below stored as base64 and encrypted xor 0x09 ->
-udata.elephantdata.net
-atb.bearclod.com
+0.0.0.0 udata.elephantdata.net
+0.0.0.0 atb.bearclod.com
 #pDNS data for the IPs associated with atb.bearclod.com ->
-alb.bearclod.com
-aly.bearclod.com
-alz.bearclod.com
-atb.bearclod.com
-bivitis.bearclod.com
-brt.bearclod.com
-brul.bearclod.com
-hfstat.bearclod.com
-hkn01.bearclod.com
-ply.bearclod.com
-zoo.bearclod.com
+0.0.0.0 alb.bearclod.com
+0.0.0.0 aly.bearclod.com
+0.0.0.0 alz.bearclod.com
+0.0.0.0 atb.bearclod.com
+0.0.0.0 bivitis.bearclod.com
+0.0.0.0 brt.bearclod.com
+0.0.0.0 brul.bearclod.com
+0.0.0.0 hfstat.bearclod.com
+0.0.0.0 hkn01.bearclod.com
+0.0.0.0 ply.bearclod.com
+0.0.0.0 zoo.bearclod.com
