@@ -1,0 +1,17 @@
+# Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
+# Contact: mobiletrackers [at] protonmail.ch
+# 
+# Version 1.00 - 20200330
+#
+# xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
+bin5y4muil.execute-api.us-east-1.amazonaws.com
+# unknown, possibly xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
+8balwalz1i.execute-api.us-east-2.amazonaws.com
+# unknowns - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
+api.smartechmetrics.com
+ck-running-apps-700f1.firebaseio.com
+pie.wirelessregistry.com
+# unknowns - 010f7bb33f35cc650b7d6104b07102eb0dbaf79bcec1f1c6255fdcaffefe6b68 - com.davidsukhin.com.sukhin.snowdaycalculator.SnowDay
+# URLs below stored as base64 and encrypted xor 0x09 ->
+udata.elephantdata.net
+atb.bearclod.com
