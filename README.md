@@ -1,5 +1,5 @@
 # mobiletrackers
-A repository of telemetry domains and URLs used by mobile location tracking libraries.
+A repository of telemetry domains and URLs used by mobile location tracking and analytics libraries.
 
 Contact: mobiletrackers [at] protonmail.ch
 
