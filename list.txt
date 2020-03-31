@@ -38,3 +38,5 @@ devices.starbolt.io
 android-quinoa-config-prod.sense360eng.com
 survey-notify-event.sense360eng.com
 quinoa-personal-identify-prod.sense360eng.com
+# appmeasurement - cb9b9de8616e55849b9140e7915b2ba237818625828acfa55b59f5268f589e91 - com.kellytechnology.Forecast_Now
+app-measurement.com
