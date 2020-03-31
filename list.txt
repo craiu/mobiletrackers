@@ -27,3 +27,6 @@ hfstat.bearclod.com
 hkn01.bearclod.com
 ply.bearclod.com
 zoo.bearclod.com
+# crashlytics - 4711634730d5367756bba4d776d846b01b8d0373336ea877a2c20b1da0a95477 - com.sgiggle.production_5.2.229629_1538560344.apk
+settings.crashlytics.com
+e.crashlytics.com
