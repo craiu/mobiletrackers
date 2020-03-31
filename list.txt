@@ -40,3 +40,6 @@ survey-notify-event.sense360eng.com
 quinoa-personal-identify-prod.sense360eng.com
 # appmeasurement - cb9b9de8616e55849b9140e7915b2ba237818625828acfa55b59f5268f589e91 - com.kellytechnology.Forecast_Now
 app-measurement.com
+# newrelic - 2d4c9c037db43704f52968c9c363cbdf382cbb6a4b9143825f6e8b523b7c0c01 - com.crowdcompass.appmQaIam3e7C.apk
+mobile-collector.newrelic.com
+mobile-crash.newrelic.com
