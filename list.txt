@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.00 - 20200330
+# Version 1.01 - 20200331
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -30,3 +30,11 @@ zoo.bearclod.com
 # crashlytics - 4711634730d5367756bba4d776d846b01b8d0373336ea877a2c20b1da0a95477 - com.sgiggle.production_5.2.229629_1538560344.apk
 settings.crashlytics.com
 e.crashlytics.com
+# starbolt - cb9b9de8616e55849b9140e7915b2ba237818625828acfa55b59f5268f589e91 - com.kellytechnology.Forecast_Now
+sdk.starbolt.io
+dmp.starbolt.io
+devices.starbolt.io
+# sense360 ? - cb9b9de8616e55849b9140e7915b2ba237818625828acfa55b59f5268f589e91 - com.kellytechnology.Forecast_Now
+android-quinoa-config-prod.sense360eng.com
+survey-notify-event.sense360eng.com
+quinoa-personal-identify-prod.sense360eng.com
