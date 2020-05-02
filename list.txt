@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.01 - 20200331
+# Version 1.02 - 20200502
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -43,3 +43,10 @@ app-measurement.com
 # newrelic - 2d4c9c037db43704f52968c9c363cbdf382cbb6a4b9143825f6e8b523b7c0c01 - com.crowdcompass.appmQaIam3e7C.apk
 mobile-collector.newrelic.com
 mobile-crash.newrelic.com
+# Xiao mi related telemetry endpoints - see https://twitter.com/hookgab/status/1255859289945780225
+data.mistat.india.xiaomi.com
+data.mistat.intl.xiaomi.com
+data.mistat.rus.xiaomi.com
+tracking.rus.miui.com
+tracking.intl.miui.com
+tracking.india.miui.com
