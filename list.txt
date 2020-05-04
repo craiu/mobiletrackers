@@ -50,3 +50,7 @@ data.mistat.rus.xiaomi.com
 tracking.rus.miui.com
 tracking.intl.miui.com
 tracking.india.miui.com
+# from https://twitter.com/cybergibbons/status/1256703550954057729
+sa.api.intl.miui.com
+sa.api.india.miui.com
+sa.api.rus.miui.com
