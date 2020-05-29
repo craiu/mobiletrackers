@@ -63,12 +63,17 @@ api.myendpoint.io
 ti.domainforlite.com
 uu.domainforlite.com
 # pDNS resolutions for uu.domainforlite.com, hosting on 47.252.80.195
-us01.salmonads.com
-net.salmonads.com
-net.hahamobi.com
-log.adywind.com
-lg.smardroid.com
-lg.requestads.com
-lg.luckyforworlds.com
-api.salmonads.com
+adserver.hahamobi.com
+analytics.hahamobi.com
 analytics.salmonads.com
+api.salmonads.com
+dat.funheroic.com
+lg.luckyforworlds.com
+lg.requestads.com
+lg.smardroid.com
+log.adywind.com
+log.mobpowertech.com
+net.hahamobi.com
+net.salmonads.com
+us01.salmonads.com
+uu.domainforlite.com
