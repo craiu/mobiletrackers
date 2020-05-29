@@ -62,3 +62,13 @@ api.myendpoint.io
 # 3aba867b8b91c17531e58a9054657e10 – com.powerd.cleaner
 ti.domainforlite.com
 uu.domainforlite.com
+# pDNS resolutions for uu.domainforlite.com, hosting on 47.252.80.195
+us01.salmonads.com
+net.salmonads.com
+net.hahamobi.com
+log.adywind.com
+lg.smardroid.com
+lg.requestads.com
+lg.luckyforworlds.com
+api.salmonads.com
+analytics.salmonads.com
