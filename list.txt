@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.03 - 20200519
+# Version 1.04 - 20200529
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -56,3 +56,9 @@ sa.api.india.miui.com
 sa.api.rus.miui.com
 # new xmodesocial - from https://mobile.twitter.com/guardianiosapp/status/1262545645941874689
 api.myendpoint.io
+# aggressive advertisers - https://securelist.com/in-app-advertising-in-android/97065/
+# 1eeda6306a2b12f78902a1bc0b7a7961 – com.android.ggtoolkit_tw_xd
+# 134283b8efedc3d7244ba1b3a52e4a92  – com.xprodev.cutcam
+# 3aba867b8b91c17531e58a9054657e10 – com.powerd.cleaner
+ti.domainforlite.com
+uu.domainforlite.com
