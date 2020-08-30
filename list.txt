@@ -91,3 +91,9 @@ lbjg7.com
 bigdata800.com
 apd1.warnlog.com
 apd1.thunup.com
+# mintegral, 2020-08-30, described at: https://snyk.io/research/sour-mint-malicious-sdk/
+n.systemlog.me
+setting.rayjump.com
+analytics.rayjump.com
+# from pDNS on n.systemlog.me ->
+net.cleverjp.com
