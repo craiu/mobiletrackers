@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.06 - 20200830
+# Version 1.07 - 20200903
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -97,3 +97,10 @@ setting.rayjump.com
 analytics.rayjump.com
 # from pDNS on n.systemlog.me ->
 net.cleverjp.com
+# from fake NEXTALIVE (moonfair) application - https://www.zdnet.com/article/google-removes-android-app-that-was-used-to-spy-on-belarusian-protesters/
+arcpi.nextialive.roimaster.site
+api.nextialive.roimaster.site
+ws.nextialive.roimaster.site
+nextialive.roimaster.site
+api.dev.chat.roimaster.site
+dev.chat.roimaster.site
