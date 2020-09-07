@@ -1,0 +1,20 @@
+# Various telemetry endpoints (hosts and domains) used by Windows
+# Contact: mobiletrackers [at] protonmail.ch
+# 
+# Version 1.00 - 20200907
+#
+# Windows telemetry endpoints as described by German BSI - https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/SiSyPHus/Workpackage4_Telemetry.pdf?__blob=publicationFile&v=2
+geo.settings-win.data.microsoft.com.akadns.net
+db5-eap.settings-win.data.microsoft.com.akadns.net
+settings-win.data.microsoft.com
+db5.settings-win.data.microsoft.com.akadns.net
+asimov-win.settings.data.microsoft.com.akadns.net
+db5.vortex.data.microsoft.com.akadns.net
+v10-win.vortex.data.microsoft.com.akadns.net
+geo.vortex.data.microsoft.com.akadns.net
+v10.vortex-win.data.microsoft.com
+us.vortex-win.data.microsoft.com
+eu.vortex-win.data.microsoft.com
+vortex-win-sandbox.data.microsoft.com
+alpha.telemetry.microsoft.com
+oca.telemetry.microsoft.com 
