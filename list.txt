@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.08 - 20200928
+# Version 1.08b - 20200928
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -117,3 +117,16 @@ nineth03.oss-ap-southeast-5.aliyuncs.com
 proxy48.oss-eu-central-1.aliyuncs.com
 rinimae.oss-ap-southeast-5.aliyuncs.com
 sahar.oss-us-east-1.aliyuncs.com
+# Cerberus C2s as described by BitDefender - https://labs.bitdefender.com/2020/09/apps-on-google-play-tainted-with-cerberus-banker-malware/
+2fapass.club
+androidradio.life
+downdating.club
+fitnessstrategy.xyz
+groovefitness.xyz
+loversfinder.xyz
+positivefitness.club
+safeyourdata.xyz
+sport4ever.club
+vipyoga.today
+weatherclub.club
+yoga4u.xyz
