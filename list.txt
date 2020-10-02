@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.08b - 20200928
+# Version 1.09 - 20201001
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -130,3 +130,7 @@ sport4ever.club
 vipyoga.today
 weatherclub.club
 yoga4u.xyz
+# unknown (?) telemetry receiving endpoints from:
+# 066de93f181e9cbcb8611c675bbcb0fc - com.speedcamera.detector.radar.detector.direction
+yqchpwxvbg.execute-api.us-east-1.amazonaws.com
+pn8sm7rjuc.execute-api.us-east-1.amazonaws.com
