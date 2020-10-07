@@ -136,6 +136,7 @@ yqchpwxvbg.execute-api.us-east-1.amazonaws.com
 pn8sm7rjuc.execute-api.us-east-1.amazonaws.com
 # venntel / gravy analytics from https://github.com/sociam/PROWISH/blob/master/data/200appsdynamic.csv
 # venntel / gravy analytics from https://fil.forbrukerradet.no/wp-content/uploads/2020/01/2020-01-14-out-of-control-final-version.pdf
+# gravy analytics docs - http://developers.findgravy.com/products/gold-api/docs/index2.html
 api.findgravy.com
 nwzhmwux-api.findgravy.com
 zmq5ytc1-api.findgravy.com
