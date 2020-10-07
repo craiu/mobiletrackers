@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.09 - 20201001
+# Version 1.10 - 20201007
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -134,3 +134,10 @@ yoga4u.xyz
 # 066de93f181e9cbcb8611c675bbcb0fc - com.speedcamera.detector.radar.detector.direction
 yqchpwxvbg.execute-api.us-east-1.amazonaws.com
 pn8sm7rjuc.execute-api.us-east-1.amazonaws.com
+# venntel / gravy analytics from https://github.com/sociam/PROWISH/blob/master/data/200appsdynamic.csv
+# venntel / gravy analytics from https://fil.forbrukerradet.no/wp-content/uploads/2020/01/2020-01-14-out-of-control-final-version.pdf
+api.findgravy.com
+nwzhmwux-api.findgravy.com
+zmq5ytc1-api.findgravy.com
+mtm1nwmx-api.findgravy.com
+gravyanalytics.com
