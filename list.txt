@@ -146,3 +146,7 @@ gravyanalytics.com
 ws.findgravy.com
 api.foozor.com
 testapi.foozor.com
+# 51ec8159efb88a852005b94f0fd9891016b75f4b40d24608ee8a5c8d34826a3e - com.usatoday.android.news
+pushapi.localytics.com
+analytics.localytics.com
+profile.localytics.com
