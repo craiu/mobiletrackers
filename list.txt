@@ -223,3 +223,7 @@ sk1.wzrkt.com
 us1-spiky.wzrkt.com
 us1.cb.wzrkt.com
 us1.wzrkt.com
+# from cb9f6bb72a9766ba8c805c25769b47c46751052706bb41ed333db0b42cd586ff - 	com.byjus.thelearningapp
+# also see https://digitalwatchdog.org/wp-content/uploads/2020/09/IDAC-Ed-Tech-Report_AppendixB_SensitiveData.pdf
+api.tllms.com
+marketing.tllms.com
