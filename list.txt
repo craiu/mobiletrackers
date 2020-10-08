@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.11f - 20201008
+# Version 1.11g - 20201008
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -240,3 +240,5 @@ thepopulator.tutelatechnologies.com
 api.huqindustries.co.uk
 report.huqindustries.co.uk
 charles.huqindustries.co.uk
+# IOCs from https://www.whiteops.com/blog/somewhere-over-the-rainbowmix
+api.pythonexample.com
