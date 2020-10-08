@@ -168,3 +168,4 @@ api.smartechmetrics.com
 # more crashlytics hosts from 2dc269d7237c97edefa653a379eca897a23f46adcf14705801041817bf5d1e7e - net.androgames.compass
 firebase-settings.crashlytics.com
 update.crashlytics.com
+reports.crashlytics.com
