@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.10c - 20201007
+# Version 1.11 - 20201008
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -155,3 +155,7 @@ img04.findgravy.com
 pushapi.localytics.com
 analytics.localytics.com
 profile.localytics.com
+# cuebiq location sdk from ->
+# 2dc269d7237c97edefa653a379eca897a23f46adcf14705801041817bf5d1e7e - net.androgames.compass
+in.cuebiq.com
+ingestion-api.kiwi.sand.cuebiq.ai
