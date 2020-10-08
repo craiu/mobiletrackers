@@ -33,3 +33,6 @@ v20.events.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 vortex-win-sandbox.data.microsoft.com
 vortex-win.data.microsoft.com
+mobile.events.data.microsoft.com
+in.appcenter.ms
+codepush.appcenter.ms
