@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.11d - 20201008
+# Version 1.11e - 20201008
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -195,3 +195,31 @@ mobile-sdk-api.intercom.io
 # Clevertap's wzrkt.com - also see https://twitter.com/fs0c131y/status/977267255309463554
 wzrkt.com
 in.wzrkt.com
+# subdomains from wzrkt.com - https://subdomainfinder.c99.nl/scans/2020-04-19/wzrkt.com
+api.wzrkt.com
+cb.wzrkt.com
+eu1-spiky.wzrkt.com
+eu1.alb.wzrkt.com
+eu1.wzrkt.com
+in.cb.wzrkt.com
+in1-spiky.wzrkt.com
+in1.alb.wzrkt.com
+in1.wzrkt.com
+sg1-spiky.wzrkt.com
+sg1.cb.wzrkt.com
+sg1.wzrkt.com
+sk1-spiky.wzrkt.com
+sk1-staging-1.wzrkt.com
+sk1-staging-10.wzrkt.com
+sk1-staging-2.wzrkt.com
+sk1-staging-3.wzrkt.com
+sk1-staging-4.wzrkt.com
+sk1-staging-5.wzrkt.com
+sk1-staging-6.wzrkt.com
+sk1-staging-7.wzrkt.com
+sk1-staging-8.wzrkt.com
+sk1-staging-9.wzrkt.com
+sk1.wzrkt.com
+us1-spiky.wzrkt.com
+us1.cb.wzrkt.com
+us1.wzrkt.com
