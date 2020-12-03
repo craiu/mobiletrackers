@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.12 - 20201203
+# Version 1.12b - 20201203
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -245,3 +245,5 @@ api.pythonexample.com
 # Predicio - from Funny Weather - pl.lawiusz.funnyweather.release.apk - 6d23151e69a57f67111d4969594316576577ae8a2015aff336ab6ef0fb2a07b4
 # see https://www.vice.com/en/article/epdpdm/ice-dhs-fbi-location-data-venntel-apps
 sdk.predic.io
+# Kinesis endpoint from Funny Weather:
+kinesis.ap-southeast-1.amazonaws.com
