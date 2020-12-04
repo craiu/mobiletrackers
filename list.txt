@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.12b - 20201203
+# Version 1.13 - 20201204
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -247,3 +247,6 @@ api.pythonexample.com
 sdk.predic.io
 # Kinesis endpoint from Funny Weather:
 kinesis.ap-southeast-1.amazonaws.com
+# Complementics endpoints from 4ba50272718c95af20940912c7968410d797fbc07dcce2bad8183b94887b0ab4
+sdk-as.complementics.com
+static.complementics.com
