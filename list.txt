@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.13 - 20201204
+# Version 1.14 - 20201217
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -250,3 +250,39 @@ kinesis.ap-southeast-1.amazonaws.com
 # Complementics endpoints from 4ba50272718c95af20940912c7968410d797fbc07dcce2bad8183b94887b0ab4
 sdk-as.complementics.com
 static.complementics.com
+# Goontact from https://blog.lookout.com/lookout-discovers-new-spyware-goontact-used-by-sextortionists-for-blackmail
+redvios.com
+v-talk.top
+v-talk.vip
+ladysizi.top
+mmbox.top
+oncamera.top
+oncast.top
+mimibox.top
+voicecontrol.top
+signaltalk.top
+oncamera.vip
+dalbam.vip
+mimimsg.net
+signal-live.vip
+tele-gram.vip
+vtalk.vip
+a-video.vip
+livetalk.vip
+livetalk.top
+download-file.top
+grd77.cn
+mimicwt.net
+super-voice.vip
+mimi18s.top
+momomsg.top
+live-live.vip
+zerobyte.top
+zerobt.net
+w-video.vip
+ser-chat.com
+tocast.vip
+videosound.vip
+twi-tter.vip
+my-player.vip
+voicesupport.vip
