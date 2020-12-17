@@ -286,3 +286,5 @@ videosound.vip
 twi-tter.vip
 my-player.vip
 voicesupport.vip
+# Joker from https://research.checkpoint.com/2020/new-joker-variant-hits-google-play-with-an-old-trick/
+gd-1301476296.cos.na-toronto.myqcloud.com
