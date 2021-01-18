@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.14 - 20201217
+# Version 1.15 - 20210118
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -288,3 +288,11 @@ my-player.vip
 voicesupport.vip
 # Joker from https://research.checkpoint.com/2020/new-joker-variant-hits-google-play-with-an-old-trick/
 gd-1301476296.cos.na-toronto.myqcloud.com
+# Related to: https://github.com/greatsuspender/thegreatsuspender/issues/1175
+# and: https://www.theregister.com/2021/01/07/great_suspender_malware/
+cdn.owebanalytics.com
+static.trckingbyte.com
+static.trckpath.com
+static.privacytrck.com
+rctphvxwnjhx.pw
+hanstrackr.com
