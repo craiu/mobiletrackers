@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.17 - 20210412
+# Version 1.18 - 20210830
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -330,3 +330,7 @@ www.suppro.co
 # APKPure compromise by Triada malware - https://securelist.com/apkpure-android-app-store-infected/101845/
 wcf.seven1029.com
 foodin.site
+# Triada from https://securelist.com/triada-trojan-in-whatsapp-mod/103679/
+# Trojan.AndroidOS.Triada.ef b1aa5d5bf39fee0b1e201d835e4dc8de
+t1k22.c8xwor.com
+dgmxn.c8xwor.com
