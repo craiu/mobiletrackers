@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.18 - 20210830b
+# Version 1.18 - 20210830c
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -340,3 +340,5 @@ reporting.tutelatechnologies.com
 video-url.tutelatechnologies.com
 hail-reporting.tutelatechnologies.com
 d3clybje3sun07.cloudfront.net
+# speedspot - reports GPS location, other data - SpeedtestResultViews.java - inside f9db002cbc6e5b6de37fb15aefaaf3934a700a7a2f9d5949f3cd6bb8c7dfc1bc
+api.speedspot.org
