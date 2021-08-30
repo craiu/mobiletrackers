@@ -344,3 +344,12 @@ d3clybje3sun07.cloudfront.net
 api.speedspot.org
 www.speedcheck.org
 net.etrality.com
+a2.etrality.com
+a1.etrality.com
+c4.etrality.com
+b3.etrality.com
+c3.etrality.com
+b2.etrality.com
+c2.etrality.com
+b1.etrality.com
+c1.etrality.com
