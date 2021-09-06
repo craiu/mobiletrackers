@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.18 - 20210830c
+# Version 1.19 - 20210906
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -362,3 +362,23 @@ www.speedspot2.com
 www.speedspot3.com
 www.speedspot4.com
 www.speedspot6.com
+#Kochava endpoints, from rugabunda https://beta.pithus.org/report/844aa271ef47f7807ab3ccc63952e2215298701a6851857c22456317927f08fd
+co.akisinn.info
+co.dewrain.life
+co.vaicore.site
+co.vaicore.xyz
+int.akisinn.info
+int.akisinn.me
+int.akisinn.site
+int.dewrain.life
+int.dewrain.site
+int.dewrain.world
+int.vaicore.site
+int.vaicore.store
+int.vaicore.xyz
+int.vlancaa.site
+int.vlancaa.fun
+tok.vaicore.xyz
+vaicore.xyz
+web.ab-salute.com
+smart.link
