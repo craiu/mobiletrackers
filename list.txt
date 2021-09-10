@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.19 - 20210906
+# Version 1.20 - 20210910
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -382,3 +382,11 @@ tok.vaicore.xyz
 vaicore.xyz
 web.ab-salute.com
 smart.link
+# Adeco and inappertising - see https://www.occrp.org/en/investigations/how-a-russian-mobile-app-developer-recruited-phones-into-a-secret-ad-watching-robot-army
+# Ultimate-Mortal-Kombat-3-v1-1.apk - https://www.virustotal.com/gui/file/dc078b004830ff03a27371bbc1c4a7b5882d5a0fb577a8477c09e8b3bfe0d6d3/details
+cfg.inappertising.org
+stats.inappertising.org
+app-stats.net2share.com
+s.net2share.com
+adeco.adecosystems.com
+dd.adecosystems.com
