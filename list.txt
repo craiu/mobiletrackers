@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.21 - 20210930
+# Version 1.21 - 20210930b
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -589,4 +589,56 @@ n.appspool.net
 wap.trend-tech.net
 fr.chillaxgames.mobi
 tracking.hexilo.com
+# Suspected GriftHorse from pDNS 	185.255.179.131 ->
+1g7kvrv.xyz
+2fnoqifq.com
+2g8cvdii.com
+2oafxcbq.xyz
+5rfvbnji9.com
+7lc6jc.xyz
+7nvdx0.xyz
+8sghnct.xyz
+berf4o.xyz
+blfnf9y.com
+brlyp4pg.com
+chulahfi.xyz
+cmvkvncsse.xyz
+cophico.pw
+dhfvbsihjf.com
+eksndtpf.org
+emraiyz.xyz
+ersokbkj.com
+fdfjhks.com
+ffnbafc.xyz
+hrvxkxq.xyz
+il0baz.com
+jduzuyd.com
+jsdfbhsa.com
+jydfoafcaf.xyz
+kgr0aixa.xyz
+krkmyvlmdg.xyz
+lgdzbch.com
+liahkhe.xyz
+lljmbbk.com
+lwvurdsjk.org
+lxghjoxzns.com
+mnfbodivbv.com
+nfrmg1y.xyz
+nwluoodzct.xyz
+ocheyhv.xyz
+okjojihgv.com
+olimob.net
+ortn13der.xyz
+poiuwhejgr.com
+pwtgnp.pw
+qtwjhuj.com
+sjkfsdkg.com
+trfvbnji7.com
+urtyhfds.com
+v9czaci.xyz
+w9x7itu.xyz
+www.mnfbodivbv.com
+www.okjojihgv.com
+y0vvbm.xyz
+yq0z3d.xyz
 
