@@ -589,7 +589,7 @@ n.appspool.net
 wap.trend-tech.net
 fr.chillaxgames.mobi
 tracking.hexilo.com
-# Suspected GriftHorse from pDNS 	185.255.179.131 ->
+# Suspected GriftHorse from pDNS 	185.255.179.131 / 185.255.179.132 ->
 1g7kvrv.xyz
 2fnoqifq.com
 2g8cvdii.com
@@ -604,9 +604,13 @@ brlyp4pg.com
 chulahfi.xyz
 cmvkvncsse.xyz
 cophico.pw
+cwkjravqsj.xyz
 dhfvbsihjf.com
+dsfhskln.com
 eksndtpf.org
 emraiyz.xyz
+eok8wd5v.net
+erbfzk.com
 ersokbkj.com
 fdfjhks.com
 ffnbafc.xyz
@@ -620,9 +624,11 @@ krkmyvlmdg.xyz
 lgdzbch.com
 liahkhe.xyz
 lljmbbk.com
+lmbbnrhiuj.xyz
 lwvurdsjk.org
 lxghjoxzns.com
 mnfbodivbv.com
+mt5vsuf1.net
 nfrmg1y.xyz
 nwluoodzct.xyz
 ocheyhv.xyz
@@ -632,13 +638,14 @@ ortn13der.xyz
 poiuwhejgr.com
 pwtgnp.pw
 qtwjhuj.com
+rfjdhxbz.com
 sjkfsdkg.com
 trfvbnji7.com
 urtyhfds.com
 v9czaci.xyz
+vortnomade.net
 w9x7itu.xyz
 www.mnfbodivbv.com
 www.okjojihgv.com
 y0vvbm.xyz
 yq0z3d.xyz
-
