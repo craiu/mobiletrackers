@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.21 - 20210930b
+# Version 1.22 - 20211004
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -649,3 +649,12 @@ www.mnfbodivbv.com
 www.okjojihgv.com
 y0vvbm.xyz
 yq0z3d.xyz
+
+# TangleBot domains, research based on - https://www.cloudmark.com/en/blog/mobile/tanglebot-new-advanced-sms-malware-targets-mobile-users-across-us-and-canada-covid-19
+covid19-ca.link
+hydro-ca.link
+sock.godforgiveuss.live
+sock.hhhhrkanandda.xyz
+sock.nmnmnmfsamsfan.xyz
+socktest.ankatras.xyz
+vaccine-appointment.link
