@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.22 - 20211004
+# Version 1.23 - 20211012
 #
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -658,3 +658,35 @@ sock.hhhhrkanandda.xyz
 sock.nmnmnmfsamsfan.xyz
 socktest.ankatras.xyz
 vaccine-appointment.link
+
+# Donot / Origami Elephant / APT-C-35 IOCs from Amnesty - https://github.com/AmnestyTech/investigations/blob/master/2021-10-07_donot/domains.txt
+
+bulk.fun
+apkv5.ppadaolnwod.xyz
+apkv6.endurecif.top
+getelements.xyz
+fiddaz.club
+lif0.top
+fif0.top
+chipp.pw
+mimestyle.xyz
+mangasiso.top
+and.retardrattle.website
+help.domainoutlet.site
+whynotworkonit.top
+spectronet.pw
+full.naturalpercent.life
+mimeversion.top
+rythemsjoy.club
+lowlight.xyz
+inapturst.top
+auth.forwardtoken.website
+accounts.loginshare.info
+seahome.top
+imageview.xyz
+flickry.xyz
+apkv2.qwertykeypad.host
+userauthen.pw
+join.officeframe.work
+zumba.tampotrust.agency
+image.loadingmessage.info
