@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.23 - 20211012
+# Version 1.24 - 20211021
 #
 
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
@@ -693,6 +693,17 @@ www.mnfbodivbv.com
 www.okjojihgv.com
 y0vvbm.xyz
 yq0z3d.xyz
+
+# additional suspected GriftHorse from pDNS - 2021-10-21
+down.tracksz.co
+go.creativemobilemarketing.com
+go.fastfinderworld.com
+go.grandprizewinners.com
+go.interlinkinternet.com
+go.protectyoursearch.com
+go.trackitalltheway.com
+go.trackiteazy.com
+go.watchwiser.com
 
 # TangleBot domains, research based on - https://www.cloudmark.com/en/blog/mobile/tanglebot-new-advanced-sms-malware-targets-mobile-users-across-us-and-canada-covid-19
 covid19-ca.link
