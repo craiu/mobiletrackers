@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.24 - 20211021
+# Version 1.25 - 20211029
 #
 
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
@@ -744,3 +744,14 @@ userauthen.pw
 join.officeframe.work
 zumba.tampotrust.agency
 image.loadingmessage.info
+
+# AbstractEmu hosts from https://blog.lookout.com/lookout-discovers-global-rooting-malware-campaign
+jobs.illaewinstralinc.com
+outline.abunddhighett.com
+tags.illaryboucnc.com
+cloud.nathompsstra.com
+store.dianmpsoathom.com
+fluency.ryboucoathom.com
+csa.naaronegya.com
+tips.ghetaldhighe.com
+color.joarteauxelb.com
