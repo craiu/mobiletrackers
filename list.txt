@@ -761,3 +761,5 @@ color.joarteauxelb.com
 dns1.sdkbalance.com
 dns2.sdkbalance.com
 dns3.sdkbalance.com
+sdk.sdkbalance.com
+mg.sdkbalance.com
