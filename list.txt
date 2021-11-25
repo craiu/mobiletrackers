@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.25 - 20211101
+# Version 1.26 - 2021-11-25
 #
 
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
@@ -755,3 +755,9 @@ fluency.ryboucoathom.com
 csa.naaronegya.com
 tips.ghetaldhighe.com
 color.joarteauxelb.com
+
+# Cynos hosts from https://vms.drweb.com/virus/?i=24972842 - 46bc4c6c87fcb519a8f315c0010b949d682ac3abee62b33bd624b251a3521b19
+
+dns1.sdkbalance.com
+dns2.sdkbalance.com
+dns3.sdkbalance.com
