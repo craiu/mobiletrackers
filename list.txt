@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.26 - 2021-11-25
+# Version 1.27 - 2021-12-02
 #
 
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
@@ -763,3 +763,21 @@ dns2.sdkbalance.com
 dns3.sdkbalance.com
 sdk.sdkbalance.com
 mg.sdkbalance.com
+
+# PhoneSpy hosts from https://blog.zimperium.com/phonespy-the-app-based-cyberattack-snooping-south-korean-citizens/ and pDNS related
+
+acd.kcpro.ga
+koreavopi.kro.kr
+g.freespy1.tk
+f.freespy1.tk
+d.freespy1.tk
+i.freespy1.tk
+c.freespy1.tk
+j.freespy1.tk
+l.freespy1.tk
+o.freespy1.tk
+n.freespy1.tk
+h.freespy1.tk
+p.freespy1.tk
+k.freespy1.tk
+
