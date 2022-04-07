@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.27 - 2021-12-02
+# Version 1.28 - 2022-04-07
 #
 
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
@@ -815,3 +815,57 @@ ydc.kcpro.ga
 zqn.kcpro.ga
 zsx.kcpro.ga
 
+# https://blog.appcensus.io/2022/04/06/the-curious-case-of-coulus-coelib/
+mobile.measurelib.com
+measurelib.com
+ami0wned.com
+amiowned.com
+arduous.work
+attorney-client-privileged.com
+attorney-client.org
+attorneyclientprivileged.com
+beachhackerspace.com
+cloudwatchtower.com
+consilio.lawyer
+consiliolaw.com
+darknetinfo.com
+dataillusionist.com
+easycalea.com
+extremeexploits.com
+extremeexploits.org
+fraudpreventionsys.com
+gleancorp.com
+idme.org
+indelibleblue.net
+indelibleblueinc.net
+internetcartography.com
+internetcartography.net
+internetcartography.org
+littoralventures.com
+marketinfo.tips
+measurementsys.com
+mxout.net
+myaddress.today
+ndagri.com
+networkcartography.com
+networkcartography.net
+networkcartography.org
+newdulcina.com
+opensourcecontext.com
+oppleman.org
+oscontext.com
+pathanalyzer.com
+pathanalyzerpro.com
+precise.fit
+pwhois.net
+pwhois.org
+quietquell.com
+trustcor.co
+vbchs.com
+vbchs.org
+vbhacker.space
+vbhackerspace.com
+vbhackerspace.org
+vostrom.ventures
+whoisanalyzer.com
+whoisanalyzerpro.com
