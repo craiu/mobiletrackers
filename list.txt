@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.28c - 2022-04-07
+# Version 1.29 - 2022-05-04
 #
 
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
@@ -874,3 +874,8 @@ mobile.ams2.measurelib.com
 
 # Telematicsdirect - from al-moazin-lite-prayer-times.apk - dcb56dc7b817dd65a1f5ebfe81cf36b85ad523990b8e4f69a4a1654d1cc8277c
 nav.telematicsdirect.com
+
+# SafeGraph / OpenLocate
+# https://github.com/pablobaxter/openlocate-android
+# https://www.vice.com/en/article/m7vymn/cdc-tracked-phones-location-data-curfews
+api.safegraph.com
