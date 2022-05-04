@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.29 - 2022-05-04
+# Version 1.29b - 2022-05-04
 #
 
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
@@ -879,3 +879,8 @@ nav.telematicsdirect.com
 # https://github.com/pablobaxter/openlocate-android
 # https://www.vice.com/en/article/m7vymn/cdc-tracked-phones-location-data-curfews
 api.safegraph.com
+
+# daily-scratchers.apk / 22a80df1084af11129baef89bce0bafad0aaae41e58dc2bb6e7c27fd3f4bac49 /	me.actv8.tvwallet
+actv8technologies.com
+api-production-v4.actv8technologies.com
+sonar.actv8technologies.com
