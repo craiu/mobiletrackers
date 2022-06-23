@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.29b - 2022-05-04
+# Version 1.3 - 2022-06-23
 #
 
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
@@ -884,3 +884,6 @@ api.safegraph.com
 actv8technologies.com
 api-production-v4.actv8technologies.com
 sonar.actv8technologies.com
+
+# Joker - RelaxingMusicSootheYourBody_signed.apk - 14c35d1158cc47cfb605fdd686603b0929d38c046dce03fd6033fb8a31433798
+novasdk.oss-cn-beijing.aliyuncs.com
