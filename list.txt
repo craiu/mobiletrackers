@@ -887,3 +887,7 @@ sonar.actv8technologies.com
 
 # Joker - RelaxingMusicSootheYourBody_signed.apk - 14c35d1158cc47cfb605fdd686603b0929d38c046dce03fd6033fb8a31433798
 novasdk.oss-cn-beijing.aliyuncs.com
+
+# Joker - https://github.com/DoctorWebLtd/malware-iocs/tree/master/Android.Joker
+# Note: domain offline since Feb 2022
+ad.mobnv.com
