@@ -891,3 +891,6 @@ novasdk.oss-cn-beijing.aliyuncs.com
 # Joker - https://github.com/DoctorWebLtd/malware-iocs/tree/master/Android.Joker
 # Note: domain offline since Feb 2022
 ad.mobnv.com
+# pDNS for 	161.117.252.102
+app.mobnv.com
+aff.fortunnecat.com
