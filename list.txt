@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.3 - 2022-06-23
+# Version 1.31 - 2022-10-16
 #
 
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
@@ -894,3 +894,9 @@ ad.mobnv.com
 # pDNS for 	161.117.252.102
 app.mobnv.com
 aff.fortunnecat.com
+
+# WhatsApp mod distributed through legitimate apps:
+# https://securelist.com/malicious-whatsapp-mod-distributed-through-legitimate-apps/107690/?utm_source=everyonesocial&utm_medium=partner&utm_campaign=us_NA-newsletter_en0177&utm_content=sm-post&utm_term=us_everyonesocial_organic_an17748oyfteksz&es_id=cfde1a3994
+wa.zcnewy.com
+av2wg.rt14v.com
+g1790.rt14v.com
