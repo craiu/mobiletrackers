@@ -906,6 +906,7 @@ g1790.rt14v.com
 alert.xiz4me.com
 asset.xiz4me.com
 sync.xiz4me.com
+xiz4me.com
 mydwnd.com
 brilliant-flame-585.firebaseio.com
 brilliant-flame-585.appspot.com
@@ -913,6 +914,7 @@ brilliant-flame-585.appspot.com
 sync.bk128.com
 alert.bk128.com
 asset.bk128.com
+bk128.com
 # xnspy - 9114e561c42ea19b183ef5d8a36e743f2b873874e43d805b11e3753035c7900d
 true-truck-86810.firebaseio.com
 true-truck-86810.appspot.com
