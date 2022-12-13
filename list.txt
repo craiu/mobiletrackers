@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.31 - 2022-10-16
+# Version 1.32 - 2022-12-13
 #
 
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
@@ -900,3 +900,10 @@ aff.fortunnecat.com
 wa.zcnewy.com
 av2wg.rt14v.com
 g1790.rt14v.com
+
+# xnspy - 578a880848bc52bed83b2be817a148187fde129cc8ad50db49630c0ebf59102c - xnspyappv2.apk
+# https://techcrunch.com/2022/12/12/xnspy-stalkerware-iphone-android/
+alert.xiz4me.com
+asset.xiz4me.com
+sync.xiz4me.com
+mydwnd.com
