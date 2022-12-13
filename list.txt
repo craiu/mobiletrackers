@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # 
-# Version 1.33b - 2022-12-13
+# Version 1.33c - 2022-12-13
 #
 
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
@@ -913,3 +913,6 @@ brilliant-flame-585.appspot.com
 sync.bk128.com
 alert.bk128.com
 asset.bk128.com
+# xnspy - 9114e561c42ea19b183ef5d8a36e743f2b873874e43d805b11e3753035c7900d
+true-truck-86810.firebaseio.com
+true-truck-86810.appspot.com
