@@ -953,4 +953,10 @@ track.odskguo.xyz
 
 #AhRat - see https://www.welivesecurity.com/2023/05/23/android-app-breaking-bad-legitimate-screen-recording-file-exfiltration/
 order.80876dd5.shop
-
+#AhRat - b2c1517e4b0e0b3286a5cde06310b2277da7333f5ab3c2828f08272e3f85b260 - iRecorder - Screen Recorder_2.0_apkcombo.com.apk
+config.unityads.unity3d.com
+config.unityads.unitychina.cn
+init.supersonicads.com
+logs.supersonic.com
+outcome-ssp.supersonicads.com
+supersonicads.com
