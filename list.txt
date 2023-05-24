@@ -950,3 +950,7 @@ t3.twmills.xyz
 api.odskguo.xyz
 gbcf.odskguo.xyz
 track.odskguo.xyz
+
+#AhRat - see https://www.welivesecurity.com/2023/05/23/android-app-breaking-bad-legitimate-screen-recording-file-exfiltration/
+order.80876dd5.shop
+
