@@ -1,0 +1,1006 @@
+# Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
+# Contact: mobiletrackers [at] protonmail.ch
+# See: https://github.com/craiu/mobiletrackers/
+# Version 1.44 - 2024-01-17
+#
+
+# xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
+||bin5y4muil.execute-api.us-east-1.amazonaws.com^$all
+# unknown, possibly xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
+||8balwalz1i.execute-api.us-east-2.amazonaws.com^$all
+
+# unknowns - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
+||api.smartechmetrics.com^$all
+||ck-running-apps-700f1.firebaseio.com^$all
+||pie.wirelessregistry.com^$all
+
+# unknowns - 010f7bb33f35cc650b7d6104b07102eb0dbaf79bcec1f1c6255fdcaffefe6b68 - com.davidsukhin.com.sukhin.snowdaycalculator.SnowDay
+# URLs below stored as base64 and encrypted xor 0x09 ->
+||udata.elephantdata.net^$all
+||atb.bearclod.com^$all
+#pDNS data for the IPs associated with atb.bearclod.com ->
+||alb.bearclod.com^$all
+||aly.bearclod.com^$all
+||alz.bearclod.com^$all
+||atb.bearclod.com^$all
+||bivitis.bearclod.com^$all
+||brt.bearclod.com^$all
+||brul.bearclod.com^$all
+||hfstat.bearclod.com^$all
+||hkn01.bearclod.com^$all
+||ply.bearclod.com^$all
+||zoo.bearclod.com^$all
+
+# crashlytics - 4711634730d5367756bba4d776d846b01b8d0373336ea877a2c20b1da0a95477 - com.sgiggle.production_5.2.229629_1538560344.apk
+||settings.crashlytics.com^$all
+||e.crashlytics.com^$all
+
+# starbolt - cb9b9de8616e55849b9140e7915b2ba237818625828acfa55b59f5268f589e91 - com.kellytechnology.Forecast_Now
+||sdk.starbolt.io^$all
+||dmp.starbolt.io^$all
+||devices.starbolt.io^$all
+
+# sense360 ? - cb9b9de8616e55849b9140e7915b2ba237818625828acfa55b59f5268f589e91 - com.kellytechnology.Forecast_Now
+||android-quinoa-config-prod.sense360eng.com^$all
+||survey-notify-event.sense360eng.com^$all
+||quinoa-personal-identify-prod.sense360eng.com^$all
+
+# appmeasurement - cb9b9de8616e55849b9140e7915b2ba237818625828acfa55b59f5268f589e91 - com.kellytechnology.Forecast_Now
+||app-measurement.com^$all
+
+# newrelic - 2d4c9c037db43704f52968c9c363cbdf382cbb6a4b9143825f6e8b523b7c0c01 - com.crowdcompass.appmQaIam3e7C.apk
+||mobile-collector.newrelic.com^$all
+||mobile-crash.newrelic.com^$all
+
+# Xiao mi related telemetry endpoints - see https://twitter.com/hookgab/status/1255859289945780225
+||data.mistat.india.xiaomi.com^$all
+||data.mistat.intl.xiaomi.com^$all
+||data.mistat.rus.xiaomi.com^$all
+||tracking.rus.miui.com^$all
+||tracking.intl.miui.com^$all
+||tracking.india.miui.com^$all
+# from https://twitter.com/cybergibbons/status/1256703550954057729
+||sa.api.intl.miui.com^$all
+||sa.api.india.miui.com^$all
+||sa.api.rus.miui.com^$all
+
+# new xmodesocial - from https://mobile.twitter.com/guardianiosapp/status/1262545645941874689
+||api.myendpoint.io^$all
+
+# aggressive advertisers - https://securelist.com/in-app-advertising-in-android/97065/
+# 1eeda6306a2b12f78902a1bc0b7a7961 – com.android.ggtoolkit_tw_xd
+# 134283b8efedc3d7244ba1b3a52e4a92  – com.xprodev.cutcam
+# 3aba867b8b91c17531e58a9054657e10 – com.powerd.cleaner
+||ti.domainforlite.com^$all
+||uu.domainforlite.com^$all
+# pDNS resolutions for uu.domainforlite.com, hosting on 47.252.80.195
+||adserver.hahamobi.com^$all
+||analytics.hahamobi.com^$all
+||analytics.salmonads.com^$all
+||api.salmonads.com^$all
+||dat.funheroic.com^$all
+||lg.luckyforworlds.com^$all
+||lg.requestads.com^$all
+||lg.smardroid.com^$all
+||log.adywind.com^$all
+||log.mobpowertech.com^$all
+||net.hahamobi.com^$all
+||net.salmonads.com^$all
+||us01.salmonads.com^$all
+||uu.domainforlite.com^$all
+
+# mobile ads, 2020-07-07, additions from https://securelist.com/pig-in-a-poke-smartphone-adware/97607/
+||www.ywupscsff.com^$all
+||www.mzeibiyr.com^$all
+||i151125.infourl.net^$all
+||www.jueoxdr.com^$all
+||ufz.doesxyz.com^$all
+||htapi.getapiv8.com^$all
+||stable.icecyber.org^$all
+||404mobi.com^$all
+||51ginkgo.com^$all
+||lbjg7.com^$all
+||bigdata800.com^$all
+||apd1.warnlog.com^$all
+||apd1.thunup.com^$all
+
+# mintegral, 2020-08-30, described at: https://snyk.io/research/sour-mint-malicious-sdk/
+||n.systemlog.me^$all
+||setting.rayjump.com^$all
+||analytics.rayjump.com^$all
+# from pDNS on n.systemlog.me ->
+||net.cleverjp.com^$all
+
+# from fake NEXTALIVE (moonfair) application - https://www.zdnet.com/article/google-removes-android-app-that-was-used-to-spy-on-belarusian-protesters/
+||arcpi.nextialive.roimaster.site^$all
+||api.nextialive.roimaster.site^$all
+||ws.nextialive.roimaster.site^$all
+||nextialive.roimaster.site^$all
+||api.dev.chat.roimaster.site^$all
+||dev.chat.roimaster.site^$all
+
+# Joker download URLs / hosts as described by ZScaler - https://www.zscaler.com/blogs/security-research/joker-playing-hide-and-seek-google-play
+||2j1i9uqw.oss-eu-central-1.aliyuncs.com^$all
+||blackdragon03.oss-ap-southeast-5.aliyuncs.com^$all
+||blackdragon.oss-ap-southeast-5.aliyuncs.com^$all
+||fgcxweasqw.oss-eu-central-1.aliyuncs.com^$all
+||jk8681oy.oss-eu-central-1.aliyuncs.com^$all
+||laodaoo.oss-ap-southeast-5.aliyuncs.com^$all
+||laodaoo.oss-ap-southeast-5.aliyuncs.com^$all
+||n47n.oss-ap-southeast-5.aliyuncs.com^$all
+||nineth03.oss-ap-southeast-5.aliyuncs.com^$all
+||proxy48.oss-eu-central-1.aliyuncs.com^$all
+||rinimae.oss-ap-southeast-5.aliyuncs.com^$all
+||sahar.oss-us-east-1.aliyuncs.com^$all
+
+# Cerberus C2s as described by BitDefender - https://labs.bitdefender.com/2020/09/apps-on-google-play-tainted-with-cerberus-banker-malware/
+||2fapass.club^$all
+||androidradio.life^$all
+||downdating.club^$all
+||fitnessstrategy.xyz^$all
+||groovefitness.xyz^$all
+||loversfinder.xyz^$all
+||positivefitness.club^$all
+||safeyourdata.xyz^$all
+||sport4ever.club^$all
+||vipyoga.today^$all
+||weatherclub.club^$all
+||yoga4u.xyz^$all
+
+# unknown (?) telemetry receiving endpoints from:
+# 066de93f181e9cbcb8611c675bbcb0fc - com.speedcamera.detector.radar.detector.direction
+||yqchpwxvbg.execute-api.us-east-1.amazonaws.com^$all
+||pn8sm7rjuc.execute-api.us-east-1.amazonaws.com^$all
+
+# venntel / gravy analytics from https://github.com/sociam/PROWISH/blob/master/data/200appsdynamic.csv
+# venntel / gravy analytics from https://fil.forbrukerradet.no/wp-content/uploads/2020/01/2020-01-14-out-of-control-final-version.pdf
+# gravy analytics docs - http://developers.findgravy.com/products/gold-api/docs/index2.html
+||api.findgravy.com^$all
+||nwzhmwux-api.findgravy.com^$all
+||zmq5ytc1-api.findgravy.com^$all
+||mtm1nwmx-api.findgravy.com^$all
+||gravyanalytics.com^$all
+# 51ec8159efb88a852005b94f0fd9891016b75f4b40d24608ee8a5c8d34826a3e - com.usatoday.android.news
+||ws.findgravy.com^$all
+||api.foozor.com^$all
+||testapi.foozor.com^$all
+# potentially related hosts on top of findgravy.com
+||img01.findgravy.com^$all
+||img02.findgravy.com^$all
+||img03.findgravy.com^$all
+||img04.findgravy.com^$all
+
+# 51ec8159efb88a852005b94f0fd9891016b75f4b40d24608ee8a5c8d34826a3e - com.usatoday.android.news
+||pushapi.localytics.com^$all
+||analytics.localytics.com^$all
+||profile.localytics.com^$all
+
+# cuebiq location sdk from ->
+# 2dc269d7237c97edefa653a379eca897a23f46adcf14705801041817bf5d1e7e - net.androgames.compass
+||in.cuebiq.com^$all
+||ingestion-api.kiwi.sand.cuebiq.ai^$all
+
+# nodle.io sdk from ->
+# 2dc269d7237c97edefa653a379eca897a23f46adcf14705801041817bf5d1e7e - net.androgames.compass
+||dev.nodle.io^$all
+||us-central1-production-242307.cloudfunctions.net^$all
+
+# unknown sdk from 2dc269d7237c97edefa653a379eca897a23f46adcf14705801041817bf5d1e7e - net.androgames.compass possibly xmode related
+||api.smartechmetrics.com^$all
+
+# more crashlytics hosts from 2dc269d7237c97edefa653a379eca897a23f46adcf14705801041817bf5d1e7e - net.androgames.compass
+||firebase-settings.crashlytics.com^$all
+||update.crashlytics.com^$all
+||reports.crashlytics.com^$all
+
+# 2dc269d7237c97edefa653a379eca897a23f46adcf14705801041817bf5d1e7e - net.androgames.compass ->
+||pixelprose.fr^$all
+
+# appsflyer from b8ce13566a048108b4321f5277e4d95a5d5743da4f082fbca30074439acf5a15 - com.unacademyapp
+||onelink.me^$all
+||onelnk.com^$all
+||app.aflink.com^$all
+||t.appsflyer.com^$all
+
+# other various telemetry endpoints (not necessarily location related) from from b8ce13566a048108b4321f5277e4d95a5d5743da4f082fbca30074439acf5a15 - com.unacademyapp
+||api.mixpanel.com^$all
+||decide.mixpanel.com^$all
+||cdn.optimizely.com^$all
+||logx.optimizely.com^$all
+||outline.truecaller.com^$all
+||api4.truecaller.com^$all
+||c.webengage.com^$all
+||p.webengage.com^$all
+||api.branch.io^$all
+||bnc.lt^$all
+||cdn.branch.io^$all
+||e.crashlytics.com^$all
+||settings.crashlytics.com^$all
+||js.intercomcdn.com^$all
+||mobile-sdk-api.intercom.io^$all
+
+# Clevertap's wzrkt.com - also see https://twitter.com/fs0c131y/status/977267255309463554
+||wzrkt.com^$all
+||in.wzrkt.com^$all
+# subdomains from wzrkt.com - https://subdomainfinder.c99.nl/scans/2020-04-19/wzrkt.com
+||api.wzrkt.com^$all
+||cb.wzrkt.com^$all
+||eu1-spiky.wzrkt.com^$all
+||eu1.alb.wzrkt.com^$all
+||eu1.wzrkt.com^$all
+||in.cb.wzrkt.com^$all
+||in1-spiky.wzrkt.com^$all
+||in1.alb.wzrkt.com^$all
+||in1.wzrkt.com^$all
+||sg1-spiky.wzrkt.com^$all
+||sg1.cb.wzrkt.com^$all
+||sg1.wzrkt.com^$all
+||sk1-spiky.wzrkt.com^$all
+||sk1-staging-1.wzrkt.com^$all
+||sk1-staging-10.wzrkt.com^$all
+||sk1-staging-2.wzrkt.com^$all
+||sk1-staging-3.wzrkt.com^$all
+||sk1-staging-4.wzrkt.com^$all
+||sk1-staging-5.wzrkt.com^$all
+||sk1-staging-6.wzrkt.com^$all
+||sk1-staging-7.wzrkt.com^$all
+||sk1-staging-8.wzrkt.com^$all
+||sk1-staging-9.wzrkt.com^$all
+||sk1.wzrkt.com^$all
+||us1-spiky.wzrkt.com^$all
+||us1.cb.wzrkt.com^$all
+||us1.wzrkt.com^$all
+
+# from cb9f6bb72a9766ba8c805c25769b47c46751052706bb41ed333db0b42cd586ff - 	com.byjus.thelearningapp
+# also see https://digitalwatchdog.org/wp-content/uploads/2020/09/IDAC-Ed-Tech-Report_AppendixB_SensitiveData.pdf
+||api.tllms.com^$all
+||marketing.tllms.com^$all
+
+# from 09f5bcadde3351eb3f509f5a471cbd7bb00536292da560bcf8ee59eb73116f00 - luo.speedometergps
+# teragence ->
+||control.teragence.net^$all
+||pfsense02-01.is-61194.teragence.net^$all
+# tutela ->
+||upload-tutelawest.s3-accelerate.amazonaws.com^$all
+||reporting-util.tutelatechnologies.com^$all
+||hail-reporting.tutelatechnologies.com^$all
+||thepopulator.tutelatechnologies.com^$all
+# huq (also from 9c53a29a7e6a871f57b20097185a09afd2ff818455a42792d502f1eb8f2e3679) ->
+||api.huqindustries.co.uk^$all
+||report.huqindustries.co.uk^$all
+||charles.huqindustries.co.uk^$all
+
+# IOCs from https://www.whiteops.com/blog/somewhere-over-the-rainbowmix
+||api.pythonexample.com^$all
+
+# Predicio - from Funny Weather - pl.lawiusz.funnyweather.release.apk - 6d23151e69a57f67111d4969594316576577ae8a2015aff336ab6ef0fb2a07b4
+# see https://www.vice.com/en/article/epdpdm/ice-dhs-fbi-location-data-venntel-apps
+||sdk.predic.io^$all
+
+# Kinesis endpoint from Funny Weather:
+||kinesis.ap-southeast-1.amazonaws.com^$all
+
+# Complementics endpoints from 4ba50272718c95af20940912c7968410d797fbc07dcce2bad8183b94887b0ab4
+||sdk-as.complementics.com^$all
+||static.complementics.com^$all
+
+# Goontact from https://blog.lookout.com/lookout-discovers-new-spyware-goontact-used-by-sextortionists-for-blackmail
+||redvios.com^$all
+||v-talk.top^$all
+||v-talk.vip^$all
+||ladysizi.top^$all
+||mmbox.top^$all
+||oncamera.top^$all
+||oncast.top^$all
+||mimibox.top^$all
+||voicecontrol.top^$all
+||signaltalk.top^$all
+||oncamera.vip^$all
+||dalbam.vip^$all
+||mimimsg.net^$all
+||signal-live.vip^$all
+||tele-gram.vip^$all
+||vtalk.vip^$all
+||a-video.vip^$all
+||livetalk.vip^$all
+||livetalk.top^$all
+||download-file.top^$all
+||grd77.cn^$all
+||mimicwt.net^$all
+||super-voice.vip^$all
+||mimi18s.top^$all
+||momomsg.top^$all
+||live-live.vip^$all
+||zerobyte.top^$all
+||zerobt.net^$all
+||w-video.vip^$all
+||ser-chat.com^$all
+||tocast.vip^$all
+||videosound.vip^$all
+||twi-tter.vip^$all
+||my-player.vip^$all
+||voicesupport.vip^$all
+
+# Joker from https://research.checkpoint.com/2020/new-joker-variant-hits-google-play-with-an-old-trick/
+||gd-1301476296.cos.na-toronto.myqcloud.com^$all
+# Related to: https://github.com/greatsuspender/thegreatsuspender/issues/1175
+# and: https://www.theregister.com/2021/01/07/great_suspender_malware/
+||cdn.owebanalytics.com^$all
+||static.trckingbyte.com^$all
+||static.trckpath.com^$all
+||static.privacytrck.com^$all
+||rctphvxwnjhx.pw^$all
+||hanstrackr.com^$all
+
+# Postlo spyware - https://twitter.com/ESETresearch/status/1374889857403785218?s=20
+||api.mainrepo.org^$all
+
+# EvilEye malware C2s mentioned at https://about.fb.com/news/2021/03/taking-action-against-hackers-in-china/
+||anayurt.net^$all
+||apkprue.info^$all
+||geo2ipapi.org^$all
+||gotossl.ml^$all
+||icptime.com^$all
+||istiqlaihaber.com^$all
+||misran.org^$all
+||newyorkingsite.com^$all
+||playgoog1e.com^$all
+||preservtyg.com^$all
+||sslportservices.com^$all
+||strunhvgpk.com^$all
+||uhtpuerdfbnm.com^$all
+||uyghur-news.com^$all
+||uyghur-soft-market.com^$all
+||uyghurhaber.com^$all
+||www.apkhl.pw^$all
+||apkhl.pw^$all
+||www.apkpure.bz^$all
+||apkpure.bz^$all
+
+# Xcodespy - https://labs.sentinelone.com/new-macos-malware-xcodespy-targets-xcode-developers-with-eggshell-backdoor/
+||www.liveupdate.cc^$all
+||www.appmarket.co^$all
+||www.recentnews.cc^$all
+||www.truckrental.cc^$all
+||www.everestnote.com^$all
+||www.alinbox.co^$all
+||www.suppro.co^$all
+
+# APKPure compromise by Triada malware - https://securelist.com/apkpure-android-app-store-infected/101845/
+||wcf.seven1029.com^$all
+||foodin.site^$all
+
+# Triada from https://securelist.com/triada-trojan-in-whatsapp-mod/103679/
+# Trojan.AndroidOS.Triada.ef b1aa5d5bf39fee0b1e201d835e4dc8de
+||t1k22.c8xwor.com^$all
+||dgmxn.c8xwor.com^$all
+
+# Tutela technologies - f9db002cbc6e5b6de37fb15aefaaf3934a700a7a2f9d5949f3cd6bb8c7dfc1bc - org.speedspot.speedanalytics
+||upload-tutelawest.s3-accelerate.amazonaws.com^$all
+||reporting.tutelatechnologies.com^$all
+||video-url.tutelatechnologies.com^$all
+||hail-reporting.tutelatechnologies.com^$all
+||d3clybje3sun07.cloudfront.net^$all
+
+# speedspot - reports GPS location, other data - SpeedtestResultViews.java - inside f9db002cbc6e5b6de37fb15aefaaf3934a700a7a2f9d5949f3cd6bb8c7dfc1bc
+||api.speedspot.org^$all
+||www.speedcheck.org^$all
+||net.etrality.com^$all
+||a2.etrality.com^$all
+||a1.etrality.com^$all
+||c4.etrality.com^$all
+||b3.etrality.com^$all
+||c3.etrality.com^$all
+||b2.etrality.com^$all
+||c2.etrality.com^$all
+||b1.etrality.com^$all
+||c1.etrality.com^$all
+||wpc.A3CD.edgecastcdn.net^$all
+||speedspot.speedspot.netdna-cdn.com^$all
+||www.speedspot5.com^$all
+||www.speedspot1.com^$all
+||www.speedspot7.com^$all
+||www.speedspot2.com^$all
+||www.speedspot3.com^$all
+||www.speedspot4.com^$all
+||www.speedspot6.com^$all
+
+#Kochava endpoints, from rugabunda https://beta.pithus.org/report/844aa271ef47f7807ab3ccc63952e2215298701a6851857c22456317927f08fd
+||co.akisinn.info^$all
+||co.dewrain.life^$all
+||co.vaicore.site^$all
+||co.vaicore.xyz^$all
+||int.akisinn.info^$all
+||int.akisinn.me^$all
+||int.akisinn.site^$all
+||int.dewrain.life^$all
+||int.dewrain.site^$all
+||int.dewrain.world^$all
+||int.vaicore.site^$all
+||int.vaicore.store^$all
+||int.vaicore.xyz^$all
+||int.vlancaa.site^$all
+||int.vlancaa.fun^$all
+||tok.vaicore.xyz^$all
+||vaicore.xyz^$all
+||web.ab-salute.com^$all
+||smart.link^$all
+
+# Adeco and inappertising - see https://www.occrp.org/en/investigations/how-a-russian-mobile-app-developer-recruited-phones-into-a-secret-ad-watching-robot-army
+# Ultimate-Mortal-Kombat-3-v1-1.apk - https://www.virustotal.com/gui/file/dc078b004830ff03a27371bbc1c4a7b5882d5a0fb577a8477c09e8b3bfe0d6d3/details
+||cfg.inappertising.org^$all
+||stats.inappertising.org^$all
+||app-stats.net2share.com^$all
+||s.net2share.com^$all
+||adeco.adecosystems.com^$all
+||dd.adecosystems.com^$all
+
+# GriftHorse Android from - https://blog.zimperium.com/grifthorse-android-trojan-steals-millions-from-over-10-million-victims-globally/
+||hotofecro.com^$all
+||alaiblompass.com^$all
+||heartratteandpulsetracker.com^$all
+||icoonectedtrack.com^$all
+||ospocatracker.com^$all
+||laalaslirayeblection.com^$all
+||iblompass.com^$all
+||smalllcalllrecorder.com^$all
+||anguaganslatast.com^$all
+||oroscopemestry.com^$all
+||blompascator.com^$all
+||leunoon.com^$all
+||arindocation.com^$all
+||rooitor.com^$all
+||mychattranslator.club^$all
+||rulapptoplan.com^$all
+||rportranslator.com^$all
+||muslimasauda.com^$all
+||martpolocator.com^$all
+||wfupppx.com^$all
+||scandocnotes.com^$all
+||freecoupon21.com^$all
+||ponyvideochat.com^$all
+||ludamec.com^$all
+||chat-transa.com^$all
+||soulscanneryh.com^$all
+||d3cameraplan.com^$all
+||qibla-ultima.com^$all
+||zoofanimalm.com^$all
+||ciaolvc.com^$all
+||heartrateproxhealthmonitor.com^$all
+||bus-metrolis.com^$all
+||truck-rouddrive.com^$all
+||locatinfind.com^$all
+||camerdentifier.com^$all
+||locatorqiafindlocation.com^$all
+||cocachar.com^$all
+||squishyp.com^$all
+||antranslaro.com^$all
+||ftphotom.com^$all
+||lockul.com^$all
+||fingerprihanger.com^$all
+||locatorshar.com^$all
+||kfcwsa.com^$all
+||gpsphonuetrackerfamilylocator.com^$all
+||cailrecorder.com^$all
+||tqiblacompas.com^$all
+||kvprojectop.com^$all
+||pikchoeditor.com^$all
+||streetprocarsracingss.com^$all
+||nemaeovies.com^$all
+||aecodero.com^$all
+||ivlewepapallrbkragonucd.com^$all
+||heartrateandmealtracker.com^$all
+||phonecontrolblockspamcalls.com^$all
+||etcotater.com^$all
+||canopoument.com^$all
+||locxfindxlocx.com^$all
+||mnesytrlatr.com^$all
+||huntcontactz.com^$all
+||intelgenttran.com^$all
+||facenalyer.com^$all
+||fnbdeiegpslocoiatntcrkaer.com^$all
+||trcalluecodr.com^$all
+||qrreaderpro.com^$all
+||itranstxtvoicepht.com^$all
+||qiberiblaon.com^$all
+||iconylc.com^$all
+||lsepeanitor.com^$all
+||fxkwboard.com^$all
+||dehcoveanager.com^$all
+||tickeakhatsp.com^$all
+||phoneboster.com^$all
+||phonfinbyclap.com^$all
+||aralaper.com^$all
+||qibdirctiowa.com^$all
+||islsrickers.com^$all
+||feartranslator.com^$all
+||vpnzfep.com^$all
+||snaplens-pt.com^$all
+||qiblassirection.com^$all
+||easyvshow.com^$all
+||qibla-quran.com^$all
+||qrcodesscan.com^$all
+||hoolives.com^$all
+||burivingsim.com^$all
+||coupongiftsnstashop.com^$all
+||fingdefend.com^$all
+||projectormp.com^$all
+||forzahmobile.com^$all
+||artateulseonitor.com^$all
+||sslasmr.com^$all
+||bagscaner.com^$all
+||phonecallerscreen.com^$all
+||datingappswmt.com^$all
+||lifeel-scan.com^$all
+||colorizerset.club^$all
+||expresscreditcash.com^$all
+||ccallerx.com^$all
+||transatitonneap.com^$all
+||lasouncherio.com^$all
+||claptfindzmphone.com^$all
+||mirrorscreencasttvv.com^$all
+||ircleocatinder.com^$all
+||mobleingsder.com^$all
+||proocallerr.com^$all
+||frecalwolwid.com^$all
+||allelpcoonmber.com^$all
+||faspulhearratmoni.com^$all
+||fincconttact.com^$all
+||uncherdroid.com^$all
+||iveilembercker.com^$all
+||lepamcker.com^$all
+||lockaaocker.com^$all
+||onarchbylap.com^$all
+||secontranslatpr.com^$all
+||tgscontakcs.com^$all
+||lockaaocker.com^$all
+||callwhozdine.com^$all
+||perargero.com^$all
+||mylocatorplus.club^$all
+||comclap.club^$all
+||callerids.club^$all
+||instantspeechtranslation.club^$all
+||photoeditorbest.club^$all
+||piction.club^$all
+||driveriders.club^$all
+||skycoachgg.club^$all
+||ffitnesstrainer.club^$all
+||racerscardriver.club^$all
+||fitnessdias.club^$all
+||meetingonlinechat.club^$all
+||fitnessgymup.club^$all
+||editsbackground.club^$all
+||cutcutpro.club^$all
+||drivingexpiriencesimulator.club^$all
+||clipbuddy.club^$all
+||horoscopefortune.club^$all
+||ludospeakeasy.club^$all
+||fitnesspoint.club^$all
+||wallvoluminousfourk.club^$all
+||cvectorart.club^$all
+||ludospeakv2.club^$all
+||callrecordpro.club^$all
+||carracer.club^$all
+||slimesimulator.club^$all
+||offroaderssurvive.club^$all
+||lending-online.club^$all
+||controlcenterios.club^$all
+||callerids.club^$all
+||carracer.club^$all
+||streetracingg.club^$all
+||checkheart.club^$all
+||keyboardthemes.club^$all
+||whatsmesticker.club^$all
+||batterychargingeffect.club^$all
+||luxoreditor.club^$all
+||lionflix.club^$all
+||amazingvideoeditor.club^$all
+||zodiachand.club^$all
+||zeusalmighty.club^$all
+||pharaohsadventure.club^$all
+||batterylivewallpaperhd.club^$all
+||comqubla.club^$all
+||safelock.club^$all
+||heartrhythm.club^$all
+||easybassbooster.club^$all
+||comphotolab.club^$all
+
+# GriftHorse Second-Stage Domain
+||678ikmbtui.com^$all
+
+# GriftHorse Third-Stage Domains
+||safe-link.mobi^$all
+||at.gogameportal.club^$all
+||activate-your-account-now.com^$all
+||continue-to-get-content-now.com^$all
+||your-access-here.com^$all
+||app.buenosocial.club^$all
+||join.crazymob.co^$all
+||vl.denrok.space^$all
+||www.timpromos.com.br^$all
+||campaignmanager.fun.moobig.com^$all
+||get-your-access-now.com^$all
+||v.mobzones.com^$all
+||mt2-sdp4.mt-2.co^$all
+||go.whatabookmark.com^$all
+||lp.shoopadoo.com^$all
+||es.mobiplus.me^$all
+||af.to.123games.club^$all
+||be.startdownload.mobi^$all
+||za.startdownload.mobi^$all
+||n.appspool.net^$all
+||wap.trend-tech.net^$all
+||fr.chillaxgames.mobi^$all
+||tracking.hexilo.com^$all
+
+# Suspected GriftHorse from pDNS 	185.255.179.131 / 185.255.179.132 ->
+||1g7kvrv.xyz^$all
+||2fnoqifq.com^$all
+||2g8cvdii.com^$all
+||2oafxcbq.xyz^$all
+||5rfvbnji9.com^$all
+||7lc6jc.xyz^$all
+||7nvdx0.xyz^$all
+||8sghnct.xyz^$all
+||berf4o.xyz^$all
+||blfnf9y.com^$all
+||brlyp4pg.com^$all
+||chulahfi.xyz^$all
+||cmvkvncsse.xyz^$all
+||cophico.pw^$all
+||cwkjravqsj.xyz^$all
+||dhfvbsihjf.com^$all
+||dsfhskln.com^$all
+||eksndtpf.org^$all
+||emraiyz.xyz^$all
+||eok8wd5v.net^$all
+||erbfzk.com^$all
+||ersokbkj.com^$all
+||fdfjhks.com^$all
+||ffnbafc.xyz^$all
+||hrvxkxq.xyz^$all
+||il0baz.com^$all
+||jduzuyd.com^$all
+||jsdfbhsa.com^$all
+||jydfoafcaf.xyz^$all
+||kgr0aixa.xyz^$all
+||krkmyvlmdg.xyz^$all
+||lgdzbch.com^$all
+||liahkhe.xyz^$all
+||lljmbbk.com^$all
+||lmbbnrhiuj.xyz^$all
+||lwvurdsjk.org^$all
+||lxghjoxzns.com^$all
+||mnfbodivbv.com^$all
+||mt5vsuf1.net^$all
+||nfrmg1y.xyz^$all
+||nwluoodzct.xyz^$all
+||ocheyhv.xyz^$all
+||okjojihgv.com^$all
+||olimob.net^$all
+||ortn13der.xyz^$all
+||poiuwhejgr.com^$all
+||pwtgnp.pw^$all
+||qtwjhuj.com^$all
+||rfjdhxbz.com^$all
+||sjkfsdkg.com^$all
+||trfvbnji7.com^$all
+||urtyhfds.com^$all
+||v9czaci.xyz^$all
+||vortnomade.net^$all
+||w9x7itu.xyz^$all
+||www.mnfbodivbv.com^$all
+||www.okjojihgv.com^$all
+||y0vvbm.xyz^$all
+||yq0z3d.xyz^$all
+
+# additional suspected GriftHorse from pDNS - 2021-10-21
+||down.tracksz.co^$all
+||go.creativemobilemarketing.com^$all
+||go.fastfinderworld.com^$all
+||go.grandprizewinners.com^$all
+||go.interlinkinternet.com^$all
+||go.protectyoursearch.com^$all
+||go.trackitalltheway.com^$all
+||go.trackiteazy.com^$all
+||go.watchwiser.com^$all
+
+# TangleBot domains, research based on - https://www.cloudmark.com/en/blog/mobile/tanglebot-new-advanced-sms-malware-targets-mobile-users-across-us-and-canada-covid-19
+||covid19-ca.link^$all
+||hydro-ca.link^$all
+||sock.godforgiveuss.live^$all
+||sock.hhhhrkanandda.xyz^$all
+||sock.nmnmnmfsamsfan.xyz^$all
+||socktest.ankatras.xyz^$all
+||vaccine-appointment.link^$all
+
+# Donot / Origami Elephant / APT-C-35 IOCs from Amnesty - https://github.com/AmnestyTech/investigations/blob/master/2021-10-07_donot/domains.txt
+||bulk.fun^$all
+||apkv5.ppadaolnwod.xyz^$all
+||apkv6.endurecif.top^$all
+||getelements.xyz^$all
+||fiddaz.club^$all
+||lif0.top^$all
+||fif0.top^$all
+||chipp.pw^$all
+||mimestyle.xyz^$all
+||mangasiso.top^$all
+||and.retardrattle.website^$all
+||help.domainoutlet.site^$all
+||whynotworkonit.top^$all
+||spectronet.pw^$all
+||full.naturalpercent.life^$all
+||mimeversion.top^$all
+||rythemsjoy.club^$all
+||lowlight.xyz^$all
+||inapturst.top^$all
+||auth.forwardtoken.website^$all
+||accounts.loginshare.info^$all
+||seahome.top^$all
+||imageview.xyz^$all
+||flickry.xyz^$all
+||apkv2.qwertykeypad.host^$all
+||userauthen.pw^$all
+||join.officeframe.work^$all
+||zumba.tampotrust.agency^$all
+||image.loadingmessage.info^$all
+
+# AbstractEmu hosts from https://blog.lookout.com/lookout-discovers-global-rooting-malware-campaign
+||jobs.illaewinstralinc.com^$all
+||outline.abunddhighett.com^$all
+||tags.illaryboucnc.com^$all
+||cloud.nathompsstra.com^$all
+||store.dianmpsoathom.com^$all
+||fluency.ryboucoathom.com^$all
+||csa.naaronegya.com^$all
+||tips.ghetaldhighe.com^$all
+||color.joarteauxelb.com^$all
+
+# Cynos hosts from https://vms.drweb.com/virus/?i=24972842 - 46bc4c6c87fcb519a8f315c0010b949d682ac3abee62b33bd624b251a3521b19
+
+||dns1.sdkbalance.com^$all
+||dns2.sdkbalance.com^$all
+||dns3.sdkbalance.com^$all
+||sdk.sdkbalance.com^$all
+||mg.sdkbalance.com^$all
+
+# PhoneSpy hosts from https://blog.zimperium.com/phonespy-the-app-based-cyberattack-snooping-south-korean-citizens/ and pDNS related
+
+||acd.kcpro.ga^$all
+||aki.kcpro.ga^$all
+||arr.kcpro.tk^$all
+||b.freespy1.ml^$all
+||b.freespy1.tk^$all
+||c.freespy1.ml^$all
+||c.freespy1.tk^$all
+||cef.kcpro.tk^$all
+||cfs.kcpro.ga^$all
+||d.freespy1.ml^$all
+||d.freespy1.tk^$all
+||dto.kcpro.ga^$all
+||e.freespy1.ml^$all
+||ejn.kcpro.ga^$all
+||ern.kcpro.ga^$all
+||f.freespy1.ml^$all
+||f.freespy1.tk^$all
+||freespy.cf^$all
+||g.freespy1.ml^$all
+||g.freespy1.tk^$all
+||h.freespy1.ml^$all
+||h.freespy1.tk^$all
+||hxg.kcpro.ga^$all
+||i.freespy1.ml^$all
+||i.freespy1.tk^$all
+||j.freespy1.ml^$all
+||j.freespy1.tk^$all
+||k.freespy1.ml^$all
+||k.freespy1.tk^$all
+||koreavopi.kro.kr^$all
+||l.freespy1.ml^$all
+||l.freespy1.tk^$all
+||m.freespy1.ml^$all
+||m.freespy1.tk^$all
+||mda.kcpro.ga^$all
+||mgo.kcpro.ga^$all
+||n.freespy1.ml^$all
+||n.freespy1.tk^$all
+||o.freespy1.ml^$all
+||o.freespy1.tk^$all
+||oso.kcpro.ga^$all
+||p.freespy1.ml^$all
+||p.freespy1.tk^$all
+||pql.kcpro.ga^$all
+||wvv.kcpro.ga^$all
+||ydc.kcpro.ga^$all
+||zqn.kcpro.ga^$all
+||zsx.kcpro.ga^$all
+
+# https://blog.appcensus.io/2022/04/06/the-curious-case-of-coulus-coelib/
+||mobile.measurelib.com^$all
+||measurelib.com^$all
+||ami0wned.com^$all
+||amiowned.com^$all
+||arduous.work^$all
+||attorney-client-privileged.com^$all
+||attorney-client.org^$all
+||attorneyclientprivileged.com^$all
+||beachhackerspace.com^$all
+||cloudwatchtower.com^$all
+||consilio.lawyer^$all
+||consiliolaw.com^$all
+||darknetinfo.com^$all
+||dataillusionist.com^$all
+||easycalea.com^$all
+||extremeexploits.com^$all
+||extremeexploits.org^$all
+||fraudpreventionsys.com^$all
+||gleancorp.com^$all
+||idme.org^$all
+||indelibleblue.net^$all
+||indelibleblueinc.net^$all
+||internetcartography.com^$all
+||internetcartography.net^$all
+||internetcartography.org^$all
+||littoralventures.com^$all
+||marketinfo.tips^$all
+||measurementsys.com^$all
+||mxout.net^$all
+||myaddress.today^$all
+||ndagri.com^$all
+||networkcartography.com^$all
+||networkcartography.net^$all
+||networkcartography.org^$all
+||newdulcina.com^$all
+||opensourcecontext.com^$all
+||oppleman.org^$all
+||oscontext.com^$all
+||pathanalyzer.com^$all
+||pathanalyzerpro.com^$all
+||precise.fit^$all
+||pwhois.net^$all
+||pwhois.org^$all
+||quietquell.com^$all
+||trustcor.co^$all
+||vbchs.com^$all
+||vbchs.org^$all
+||vbhacker.space^$all
+||vbhackerspace.com^$all
+||vbhackerspace.org^$all
+||vostrom.ventures^$all
+||whoisanalyzer.com^$all
+||whoisanalyzerpro.com^$all
+||mobile.fra2.measurelib.com^$all
+||mobile.ams2.measurelib.com^$all
+
+# Telematicsdirect - from al-moazin-lite-prayer-times.apk - dcb56dc7b817dd65a1f5ebfe81cf36b85ad523990b8e4f69a4a1654d1cc8277c
+||nav.telematicsdirect.com^$all
+
+# SafeGraph / OpenLocate
+# https://github.com/pablobaxter/openlocate-android
+# https://www.vice.com/en/article/m7vymn/cdc-tracked-phones-location-data-curfews
+||api.safegraph.com^$all
+
+# daily-scratchers.apk / 22a80df1084af11129baef89bce0bafad0aaae41e58dc2bb6e7c27fd3f4bac49 /	me.actv8.tvwallet
+||actv8technologies.com^$all
+||api-production-v4.actv8technologies.com^$all
+||sonar.actv8technologies.com^$all
+
+# Joker - RelaxingMusicSootheYourBody_signed.apk - 14c35d1158cc47cfb605fdd686603b0929d38c046dce03fd6033fb8a31433798
+||novasdk.oss-cn-beijing.aliyuncs.com^$all
+
+# Joker - https://github.com/DoctorWebLtd/malware-iocs/tree/master/Android.Joker
+# Note: domain offline since Feb 2022
+||ad.mobnv.com^$all
+# pDNS for 	161.117.252.102
+||app.mobnv.com^$all
+||aff.fortunnecat.com^$all
+
+# WhatsApp mod distributed through legitimate apps:
+# https://securelist.com/malicious-whatsapp-mod-distributed-through-legitimate-apps/107690/?utm_source=everyonesocial&utm_medium=partner&utm_campaign=us_NA-newsletter_en0177&utm_content=sm-post&utm_term=us_everyonesocial_organic_an17748oyfteksz&es_id=cfde1a3994
+||wa.zcnewy.com^$all
+||av2wg.rt14v.com^$all
+||g1790.rt14v.com^$all
+
+# xnspy - 578a880848bc52bed83b2be817a148187fde129cc8ad50db49630c0ebf59102c - xnspyappv2.apk
+# https://techcrunch.com/2022/12/12/xnspy-stalkerware-iphone-android/
+||alert.xiz4me.com^$all
+||asset.xiz4me.com^$all
+||sync.xiz4me.com^$all
+||xiz4me.com^$all
+||mydwnd.com^$all
+||brilliant-flame-585.firebaseio.com^$all
+||brilliant-flame-585.appspot.com^$all
+# xnspy - 7e3930771370ed111cdb83397a04fa7ee89f1ea35b7f5306bb1522b82bc6d38d
+||sync.bk128.com^$all
+||alert.bk128.com^$all
+||asset.bk128.com^$all
+||bk128.com^$all
+# xnspy - 9114e561c42ea19b183ef5d8a36e743f2b873874e43d805b11e3753035c7900d
+||true-truck-86810.firebaseio.com^$all
+||true-truck-86810.appspot.com^$all
+
+# Fleckpe - from https://securelist.com/fleckpe-a-new-family-of-trojan-subscribers-on-google-play/109643/
+||ac.iprocam.xyz^$all
+||ad.iprocam.xyz^$all
+||ap.iprocam.xyz^$all
+||b7.photoeffect.xyz^$all
+||ba3.photoeffect.xyz^$all
+||f0.photoeffect.xyz^$all
+||m11.slimedit.live^$all
+||m12.slimedit.live^$all
+||m13.slimedit.live^$all
+||ba.beautycam.xyz^$all
+||f6.beautycam.xyz^$all
+||f8a.beautycam.xyz^$all
+||ae.mveditor.xyz^$all
+||b8c.mveditor.xyz^$all
+||d3.mveditor.xyz^$all
+||fa.gifcam.xyz^$all
+||fb.gifcam.xyz^$all
+||fl.gifcam.xyz^$all
+||a.hdmodecam.live^$all
+||b.hdmodecam.live^$all
+||l.hdmodecam.live^$all
+||vd.toobox.online^$all
+||ve.toobox.online^$all
+||vt.toobox.online^$all
+||t1.twmills.xyz^$all
+||t2.twmills.xyz^$all
+||t3.twmills.xyz^$all
+||api.odskguo.xyz^$all
+||gbcf.odskguo.xyz^$all
+||track.odskguo.xyz^$all
+
+#AhRat - see https://www.welivesecurity.com/2023/05/23/android-app-breaking-bad-legitimate-screen-recording-file-exfiltration/
+||order.80876dd5.shop^$all
+#AhRat - b2c1517e4b0e0b3286a5cde06310b2277da7333f5ab3c2828f08272e3f85b260 - iRecorder - Screen Recorder_2.0_apkcombo.com.apk
+||config.unityads.unity3d.com^$all
+||config.unityads.unitychina.cn^$all
+||init.supersonicads.com^$all
+||logs.supersonic.com^$all
+||outcome-ssp.supersonicads.com^$all
+||supersonicads.com^$all
+
+# uBlock telemetry endpoint - adblock-stats.js  inside a01ff7dac823f3666e7f38527739802e5a7ce3cb539b6a390ca99d423b5c9779
+# data sent even if telemetry is disabled
+||ublocker-chrome.com^$all
+
+# Cytrox Predator domains, see - https://citizenlab.ca/2023/09/predator-in-the-wires-ahmed-eltantawy-targeted-with-predator-spyware-after-announcing-presidential-ambitions/
+||almal-news.com^$all
+||chat-support.support^$all
+||cibeg.online^$all
+||notifications-sec.com^$all
+||wa-info.com^$all
+||whatssapp.co^$all
+||wts-app.info^$all
+||sec-flare.com^$all
+||verifyurl.me^$all
+||c.betly.me^$all
+||betly.me^$all
+||web.whatssapp.co^$all
+||whatspp.wa-info.com^$all
+||notifications.wa-info.com^$all
+||t-bit.me^$all
+
+# PEACHPIT and BADBOX, extended infrastructure (expansion by @craiu), see - https://www.humansecurity.com/hubfs/HUMAN_Report_BADBOX-and-PEACHPIT.pdf
+||adbsc.flyermobi.com^$all
+||adbsc.ikmytech.com^$all
+||adbsdk.flyermobi.com^$all
+||admin.dofunapps.com^$all
+||ads.dofunapps.com^$all
+||ads.flyermobi.com^$all
+||apkcar.com^$all
+||ats.flyermobi.com^$all
+||ats.ikmytech.com^$all
+||cbphe.com^$all
+||cbpheback.com^$all
+||dcylog.com^$all
+||flyermobi.com^$all
+||n1.flyermobi.com^$all
+||sdk.dofunapps.com^$all
+||www.apkcar.com^$all
+||www.flyermobi.com^$all
+||ycxrl.com^$all
+||ymex.apkcar.com^$all
+||ymlog.apkcar.com^$all
+||ymsdk.apkcar.com^$all
