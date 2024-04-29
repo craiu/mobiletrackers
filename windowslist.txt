@@ -8,6 +8,7 @@ alpha.telemetry.microsoft.com
 asimov-win.settings.data.microsoft.com.akadns.net
 au-v20.events.data.microsoft.com
 au.vortex-win.data.microsoft.com
+browser.events.data.microsoft.com
 db5-eap.settings-win.data.microsoft.com.akadns.net
 db5.settings-win.data.microsoft.com.akadns.net
 db5.vortex.data.microsoft.com.akadns.net
@@ -22,6 +23,7 @@ geo.vortex.data.microsoft.com.akadns.net
 oca.telemetry.microsoft.com 
 pipe.dev.trafficmanager.net
 settings-win.data.microsoft.com
+teams.events.data.microsoft.com
 uk-v20.events.data.microsoft.com
 uk.vortex-win.data.microsoft.com
 us-v20.events.data.microsoft.com
